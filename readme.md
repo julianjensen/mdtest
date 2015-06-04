@@ -11,7 +11,7 @@ General overview of stuff blah blah blah
     3. [Styles](#Styles)
     4. [Build tools](#Build-tools)
     5. [Libraries](#Libraries)
-    6. 
+
 ***
 
 More normal text
